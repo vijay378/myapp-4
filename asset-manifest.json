@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myapp-4/static/css/main.572f7bcc.chunk.css",
+    "main.js": "/myapp-4/static/js/main.bdbf172a.chunk.js",
+    "main.js.map": "/myapp-4/static/js/main.bdbf172a.chunk.js.map",
+    "runtime-main.js": "/myapp-4/static/js/runtime-main.fcc5652f.js",
+    "runtime-main.js.map": "/myapp-4/static/js/runtime-main.fcc5652f.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/myapp-4/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.572bc06a.chunk.js": "/myapp-4/static/js/2.572bc06a.chunk.js",
+    "static/js/2.572bc06a.chunk.js.map": "/myapp-4/static/js/2.572bc06a.chunk.js.map",
+    "static/js/3.9c5ef4eb.chunk.js": "/myapp-4/static/js/3.9c5ef4eb.chunk.js",
+    "static/js/3.9c5ef4eb.chunk.js.map": "/myapp-4/static/js/3.9c5ef4eb.chunk.js.map",
+    "index.html": "/myapp-4/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/myapp-4/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.572f7bcc.chunk.css.map": "/myapp-4/static/css/main.572f7bcc.chunk.css.map",
+    "static/js/2.572bc06a.chunk.js.LICENSE.txt": "/myapp-4/static/js/2.572bc06a.chunk.js.LICENSE.txt",
+    "static/media/facebookicon.14fb9dac.bin": "/myapp-4/static/media/facebookicon.14fb9dac.bin",
+    "static/media/youtubeicon.40ad2fee.bin": "/myapp-4/static/media/youtubeicon.40ad2fee.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcc5652f.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.572bc06a.chunk.js",
+    "static/css/main.572f7bcc.chunk.css",
+    "static/js/main.bdbf172a.chunk.js"
+  ]
+}
