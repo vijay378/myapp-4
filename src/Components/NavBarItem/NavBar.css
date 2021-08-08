@@ -1,0 +1,16 @@
+.nav-background-decoration {
+    background-color: #CB9A44;
+    
+    font-variant: small-caps;
+    font-weight: 1000;
+   
+}
+
+.nav-font-decoration {
+    color: red;
+}
+
+.nav-menu-decoration {
+    background-color: seagreen;
+    color: black;
+}
